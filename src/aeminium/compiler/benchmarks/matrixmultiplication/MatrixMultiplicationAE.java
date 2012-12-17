@@ -1,4 +1,4 @@
-package aeminium.compiler.benchmarks;
+package aeminium.compiler.benchmarks.matrixmultiplication;
 
 class MatrixMultiplicationAE {
 	public static void main(String args[]) {
